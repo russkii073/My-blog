@@ -1,0 +1,18 @@
+токен личного доступа
+git remote add origin https://russkii073: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@github.com/russkii073/praktika.git .
+
+[user]
+	name = russkii073
+	email = russkii073@gmail.com
+[credential]
+	helper = manager-core
+[http]
+	proxy = http://russkii073:public_html@77.222.56.111:22
+[gui]
+	recentrepo = A:/макет бургера/russkii073.github.io/burger
+[core]
+	autocrlf = true
+	quotepath = true
+[fetch]
+	prune = false
+
