@@ -1,5 +1,5 @@
 токен личного доступа
-git remote add origin https://russkii073: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@github.com/russkii073/praktika.git .
+git remote add origin https://russkii073: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@github.com/russkii073/My-blog.git .
 
 [user]
 	name = russkii073
